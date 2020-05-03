@@ -12,5 +12,5 @@ If you've made a micro:bit project in the <a href="https://www.makecode.microbit
 <li>Open your email account.</li>
 <li>Compose a new email, and in the 'To' bar, put this address: 'dillonbarnes07@gmail.com'. Now in the subject line write 'GitHub Website micro:bit Project'.</li>
 <li>Paste the link that you copied earlier into the email and write a message about what it does and what it's called. <b>You must mention whether you want me to put the simulator, editor or the code on the website.</b></li>
-<li>Send the email! I will answer as soon as possible!</li>
-Thank you for reading this and enjoy the website!
+<li>Send the email! I will answer as soon as possible!</li><br>
+<p>Thank you for reading this and enjoy the website!</p>
