@@ -7,7 +7,7 @@ If you've made a micro:bit project in the <a href="https://www.makecode.microbit
 <br>
 Please remember that this website was created on Sunday 3<sup>rd</sup> May 2020. This means that it is new and is not very good yet. YOU can help by making a suggestion on my main website. <a href="https://www.coding.dillonbarnes.co.uk/bugform.html" target="_blank">This is a bug or suggestion form for the website.</a>
 <ol>
-<li>First, go to your project and click the 'Share' button.</li>
+<li>First, go to your project and click the 'Share' button. This is found in the top left next to the Home button.</li><img src="Share.png" alt="Share button">
 <li>Now click 'Publish Project'.</li>
 <li>Now, click the 'Copy' button next to the link.</li>
 <li>Open your email account.</li>
